@@ -1,3 +1,4 @@
+package org.army;
 
 public class Sniper extends Personnage {
 
